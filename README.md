@@ -1,2 +1,3 @@
 # CoronaReport-Selenium-chrome-driver
-scrap Google news for worldwide data (top few countries) and GovIndia site for India's data (all states)
+web-scraping program written in python3.
+it scraps Google news for worldwide data (top few countries) and GovIndia site for India's data (all states).
